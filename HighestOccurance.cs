@@ -11,7 +11,6 @@ Program for Challenge 2 is as follows
 
 using System; 
 
-namespace planittest {  
    public class HighestOccurance { 
       public static void Main(){ 
          Console.WriteLine("Please enter a String ");
@@ -39,4 +38,4 @@ namespace planittest {
          Console.WriteLine("The highest occurring character in the given string is: " + character);
       } 
    } 
-}
+
